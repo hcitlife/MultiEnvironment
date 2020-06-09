@@ -1,0 +1,5 @@
+env: 测试环境
+server:
+    port: 8080
+    servlet:
+        context-path: /test
